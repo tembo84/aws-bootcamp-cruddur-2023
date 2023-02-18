@@ -8,7 +8,7 @@ I added Multif-Factor Aunthentification for added security
 
 ### Create a new IAM User
 I created another user to my account
-![Screenshot of IAM User account](IAM%20user%20confirmation.png)
+![Screenshot of IAM User account](assets/IAM%20user%20confirmation.png)
 
 ### AWS CLI and gitpod.yml code confimation
 I installed AWS CLI and added the gitpod.yml code
@@ -30,8 +30,8 @@ I created my Logical Design from Lucid Charts and I think I did a good job.
 
 ### Conceptual Diagram (Napkin) of Cruddur
 I created a masterpiece drawing of my Cruddur Conceptual Diagram
-![Image of Conceptual Napkin Diagram](Napkin%20Conceptual%20Diagram.jpg)
+![Image of Conceptual Napkin Diagram](assets/Napkin%20Conceptual%20Diagram.jpg)
 
 ### Student Portal Checklist Week 0
 Completed All required tasks for Week 0
-![Student Portal Checklist for Week 0](Student%20Portal%20Checklist%20Week%200.png)
+![Student Portal Checklist for Week 0](assets/Student%20Portal%20Checklist%20Week%200.png)
