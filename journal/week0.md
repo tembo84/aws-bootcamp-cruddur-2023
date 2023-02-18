@@ -2,6 +2,10 @@
 
 ## Required Homework
 
+### MFA added for extra security
+I added Multif-Factor Aunthentification for added security
+![Screenshot of MFA confirmation ](assets/MFA%20confirmation.png)
+
 ### Create A Billing Alarm
 I created Billing Alarms with my billing preferences checked in.
 ![Image of Billing Preferences](assets/Billing-Alarm.png)
