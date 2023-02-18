@@ -6,6 +6,10 @@
 I added Multif-Factor Aunthentification for added security
 ![Screenshot of MFA confirmation ](assets/MFA%20confirmation.png)
 
+### Create a new IAM User
+I created another user to my account
+![Screenshot of IAM User account](IAM%20user%20confirmation.png)
+
 ### Create A Billing Alarm
 I created Billing Alarms with my billing preferences checked in.
 ![Image of Billing Preferences](assets/Billing-Alarm.png)
