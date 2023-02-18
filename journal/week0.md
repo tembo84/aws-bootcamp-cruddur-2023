@@ -15,3 +15,7 @@ I created only 2 $10 budgets because I didn't want to go over the limit.
 ### Recreate Logical Architecture Design
 I created my Logical Design from Lucid Charts and I think I did a good job.
 ![Image of Cruddur Logical Design](assets/Cruddur%20Logical%20Design.png)
+
+### Conceptual Diagram (Napkin) of Cruddur
+I created a masterpiece drawing of my Cruddur Conceptual Diagram
+![Image of Conceptual Napkin Diagram](Napkin%20Conceptual%20Diagram.jpg)
