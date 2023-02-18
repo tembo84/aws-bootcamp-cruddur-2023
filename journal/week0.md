@@ -10,6 +10,10 @@ I added Multif-Factor Aunthentification for added security
 I created another user to my account
 ![Screenshot of IAM User account](IAM%20user%20confirmation.png)
 
+### AWS CLI and gitpod.yml code confimation
+I installed AWS CLI and added the gitpod.yml code
+![Image of AWS CLI and yml code](assets/AWS%20CLI-gitpod-yml.png)
+
 ### Create A Billing Alarm
 I created Billing Alarms with my billing preferences checked in.
 ![Image of Billing Preferences](assets/Billing-Alarm.png)
