@@ -3,8 +3,8 @@
 ## Required Homework
 
 ### Create A Billing Alarm
-I created Billing Alarms as instructed, but I do not know where to screenshot to show proof.
-Please review repository
+I created Billing Alarms with my billing preferences checked in.
+![Image of Billing Preferences](assets/Billing-Alarm.png)
 
 ### Create A Budget Alarm
 
