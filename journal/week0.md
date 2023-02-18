@@ -35,3 +35,7 @@ I created a masterpiece drawing of my Cruddur Conceptual Diagram
 ### Student Portal Checklist Week 0
 Completed All required tasks for Week 0
 ![Student Portal Checklist for Week 0](assets/Student%20Portal%20Checklist%20Week%200.png)
+
+### Confirmation of Week 0 Bootcamp Quizzes Completion
+I was able to complete the quizzes in a timely fashion
+![Image of Quiz completion](assets/AWS%20Bootcamp%20Week%200%20Quiz.png)
