@@ -12,3 +12,9 @@ I was able to run multiple containers using Docker compose yaml
 
 Here's what the frontend looks like
 ![Screenshot of Frontend](assets/Cruddur%20Week%201.png)
+
+### Added Notification Feature to Cruddur
+I was able to install the notifications service to the app.py
+![screenshot of notification service](assets/Notification%20code.png)
+
+
