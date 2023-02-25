@@ -25,7 +25,7 @@ I was able to install DynamoDB without any issue
 ![Screenshot of DynamoDB](assets/DynamoDB%20installed.png)
 
 Here is confirmation of Postgres
-![screenshot of Postgres]()
+![screenshot of Postgres](assets/Postgress%20confirmed.png)
 
 
 
