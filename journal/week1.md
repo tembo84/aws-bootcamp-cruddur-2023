@@ -8,4 +8,4 @@
 
 ### Running Multiple Containers with Docker-compose
 I was able to run multiple containers using Docker compose yaml
-![Screenshot of Docker-compose.yml](assets/IAM%20user%20confirmation.png)
+![Screenshot of Docker-compose.yml](assets/multiple%20containers%20on%20Docker-compose.png)
