@@ -22,7 +22,7 @@ Here's what the notifictaion update in the frontend looks like
 
 ### Installed DynamoDB and Install and confirm Postgres
 I was able to install DynamoDB without any issue
-![Screenshot of DynamoDB]()
+![Screenshot of DynamoDB](assets/DynamoDB%20installed.png)
 
 Here is confirmation of Postgres
 ![screenshot of Postgres]()
