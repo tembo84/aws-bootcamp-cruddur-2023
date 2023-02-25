@@ -17,4 +17,7 @@ Here's what the frontend looks like
 I was able to install the notifications service to the app.py
 ![screenshot of notification service](assets/Notification%20code.png)
 
+Here's what the notifictaion update in the frontend looks like
+![Screenshot of Frontend](assets/FrontEnd%20React%20Page%20for%20Notifications.png)
+
 
