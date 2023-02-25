@@ -20,4 +20,12 @@ I was able to install the notifications service to the app.py
 Here's what the notifictaion update in the frontend looks like
 ![Screenshot of Frontend](assets/FrontEnd%20React%20Page%20for%20Notifications.png)
 
+### Installed DynamoDB and Install and confirm Postgres
+I was able to install DynamoDB without any issue
+![Screenshot of DynamoDB]()
+
+Here is confirmation of Postgres
+![screenshot of Postgres]()
+
+
 
