@@ -3,8 +3,8 @@
 ## Required Homework
 
 ### MFA added for extra security
-I added Multif-Factor Aunthentification for added security
-![Screenshot of MFA confirmation ](assets/MFA%20confirmation.png)
+I added Multi-Factor Aunthentification for added security
+![Screenshot of MFA confirmation ](assets/MFA%20confirmation1.png)
 
 ### Create a new IAM User
 I created another user to my account
