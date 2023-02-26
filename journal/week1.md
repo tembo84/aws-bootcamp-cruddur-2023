@@ -4,7 +4,7 @@
 
 ### Containerize Backend-Flask
 
-![Screenshot of Containerization](assets/Containerize%20backend%20flask.png)
+![Screenshot of Containerization](assets/Containerize%20backend%20flask1.png)
 
 ### Running Multiple Containers with Docker-compose
 I was able to run multiple containers using Docker compose yaml
