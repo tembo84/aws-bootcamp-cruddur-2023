@@ -9,4 +9,4 @@ In this image I show the installation of Honeycomb using opentelemetry in my git
 
 ### Honeycomb Trace
 In this screenshot, I show an image of my first trace on Honeycomb.
-![Screenshot of Honeycomb Trace](asset/honeycomb%20trace.png)
+![Screenshot of Honeycomb Trace](assets/honeycomb%20trace.png)
