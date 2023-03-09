@@ -35,3 +35,7 @@ In this screenshot, I use AWS Cloudwatch to create a logs group called Cruddur.
 ### AWS Cloudwatch Logs Streams
 In this screenshot, I showed all the logs streams from the Cruddur group.
 ![Screenshot of Cloudwatch Log Streams](assets/cloudwatch%20log%20streams.png)
+
+### ROLLBAR
+In this screenshot, I create my first project on Rollbar, and I show the traces from Cruddur.
+![Screenshot of Rollbar project traces](assets/rollbar.png)
