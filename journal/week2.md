@@ -6,3 +6,7 @@ This week we focused on Observability, where we can view the logs and traces of 
 ### Instrument Honeycomb with OTEL
 In this image I show the installation of Honeycomb using opentelemetry in my gitpod app.py file.
 ![Screenshot of Honeycomb OTEL installation](assets/install-honeycomb-otel.png)
+
+### Honeycomb Trace
+In this screenshot, I show an image of my first trace on Honeycomb.
+![Screenshot of Honeycomb Trace](asset/honeycomb%20trace.png)
