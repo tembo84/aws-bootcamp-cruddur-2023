@@ -30,3 +30,8 @@ In this screenshot, I show the traces from the Cruddur X-Ray group.
 ### AWS Cloudwatch Logs Group
 In this screenshot, I use AWS Cloudwatch to create a logs group called Cruddur.
 ![Screenshot of Cloudwatch Logs Group](assets/cloudwatch%20log%20groups.png)
+
+
+### AWS Cloudwatch Logs Streams
+In this screenshot, I showed all the logs streams from the Cruddur group.
+![Screenshot of Cloudwatch Log Streams](assets/cloudwatch%20log%20streams.png)
