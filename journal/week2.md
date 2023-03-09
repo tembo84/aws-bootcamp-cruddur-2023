@@ -27,4 +27,6 @@ In this screenshot, I show the traces from the Cruddur X-Ray group.
 ![Screenshot of XRAY traces](assets/xray%20traces.png)
 
 
-
+### AWS Cloudwatch Logs Group
+In this screenshot, I use AWS Cloudwatch to create a logs group called Cruddur.
+![Screenshot of Cloudwatch Logs Group](assets/cloudwatch%20log%20groups.png)
