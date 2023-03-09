@@ -10,3 +10,7 @@ In this image I show the installation of Honeycomb using opentelemetry in my git
 ### Honeycomb Trace
 In this screenshot, I show an image of my first trace on Honeycomb.
 ![Screenshot of Honeycomb Trace](assets/honeycomb%20trace.png)
+
+### Honeycomb Heatmap/P90
+In this screenshot, I show an image of the heatmap and P90 durayion results from the trace.
+![Screenshot of Heatmap-P90](assets/honeycomb-heatmap-p90.png)
