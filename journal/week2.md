@@ -18,5 +18,13 @@ In this screenshot, I show an image of the heatmap and P90 durayion results from
 
 
 ### AWS X-RAY Group
-In this screenshot, we use AWS X-Ray service to create a group called Cruddur.
+In this screenshot, I use AWS X-Ray service to create a group called Cruddur.
 ![Screenshot of XRAY group](assets/xray%20group.png)
+
+
+### X-RAY Trace
+In this screenshot, I show the traces from the Cruddur X-Ray group.
+![Screenshot of XRAY traces](assets/xray%20traces.png)
+
+
+
