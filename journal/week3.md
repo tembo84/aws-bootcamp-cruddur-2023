@@ -9,5 +9,8 @@ In this image I showed what the sign-in page looks after inputting incorrect sig
 
 
 ### Create a user pool and user in AWS Cognito
-In this image I use AWS Cognito to create a user pool in order to verify that the sign-in page works correctly.
+In this screenshot I use AWS Cognito to create a user pool in order to verify that the sign-in page works correctly.
 ![Screenshot of Cognito User Pool](assets/Cognito-user-pool.png)
+
+Here is a screenshot showing successful sign-in after implementing the AWS Cognito User Pool information (notice the unique user information in the bottom left corner of the application)
+![SCreenshot of successful sign-in](assets/Successful-sign-in.png)
