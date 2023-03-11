@@ -25,5 +25,9 @@ Here is a screenshot of the Comfirmation Page requesting confimation after signi
 
 
 ### Instrument Password Recovery
-in this screenshot, I show the password recovery page. A user can create a new password if he/she cannot remember their credentials.
+In this screenshot, I show the password recovery page. A user can create a new password if he/she cannot remember their credentials.
 ![Screenshot of Password Recovery Page](assets/Recover-password-page.png)
+
+
+and here is what it will look like when the password is successfully reset.
+![Screenshot of Successful Reset](assets/Password-reset-successful.png)
