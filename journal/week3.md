@@ -22,3 +22,8 @@ Here is what the sign-up page will look like.
 
 Here is a screenshot of the Comfirmation Page requesting confimation after signing up. 
 ![Screenshot of Confirmation Page](assets/Confirmation-page.png)
+
+
+### Instrument Password Recovery
+in this screenshot, I show the password recovery page. A user can create a new password if he/she cannot remember their credentials.
+![Screenshot of Password Recovery Page](assets/Recover-password-page.png)
