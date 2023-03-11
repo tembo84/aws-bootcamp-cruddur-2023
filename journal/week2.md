@@ -1,7 +1,7 @@
 # Week 2 — Distributed Tracing
 
 ## Required Homework
-This week we focused on Observability, where we can view the logs and traces of the programs we are using in order to view our progress and pinpoint specific errors.
+This week I focused on Observability, where I can view the logs and traces of the programs I am using in order to view my progress and pinpoint specific errors.
 
 ### Instrument Honeycomb with OTEL
 In this image I show the installation of Honeycomb using opentelemetry in my gitpod app.py file.
