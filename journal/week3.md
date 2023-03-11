@@ -14,3 +14,8 @@ In this screenshot I use AWS Cognito to create a user pool in order to verify th
 
 Here is a screenshot showing successful sign-in after implementing the AWS Cognito User Pool information (notice the unique user information in the bottom left corner of the application)
 ![SCreenshot of successful sign-in](assets/Successful-sign-in.png)
+
+
+### Implement Custom Sign-Up Page
+Here is a screenshot of the Comfirmation Page requestion confimation after signing up. 
+![Screenshot of Confirmation Page](assets/Confirmation-page.png)
