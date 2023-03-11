@@ -17,5 +17,8 @@ Here is a screenshot showing successful sign-in after implementing the AWS Cogni
 
 
 ### Implement Custom Sign-Up Page
-Here is a screenshot of the Comfirmation Page requestion confimation after signing up. 
+Here is what the sign-up page will look like.
+![Screenshot of Sign-Up Page](assets/Sign-up-page.png)
+
+Here is a screenshot of the Comfirmation Page requesting confimation after signing up. 
 ![Screenshot of Confirmation Page](assets/Confirmation-page.png)
