@@ -6,3 +6,8 @@ This week I focused on Databases, where I implemented databases through AWS usin
 ### Create a Postgres Instance
 In this image I a Postgres Instance in my AWS RDS.
 ![Screenshot of Postgres Instance](assets/postgres%20instance.png)
+
+
+### Bash Script of DB actions
+This is a screenshot of the one of the bash script files I created to execute the PostgreSQL commands.
+![Screenshot of bash script](assets/bash-script-db-actions.png)
