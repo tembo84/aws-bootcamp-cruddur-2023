@@ -41,3 +41,7 @@ Here is the user being created on Cognito from signing up through the Crudder ap
 
 Here is an image of the VPC security group connecting Gitpod, Lambda/RDS and Cognito
 ![Screenshot of VPC](assets/vpc%20created.png)
+
+### Cloudwatch Log data from Lambda Function
+and here is the cloudwatch log data generated from the lambda fucntion after creating the cognito user.
+![Screenshot of log data from lambda](assets/logs%20from%20error.png)
