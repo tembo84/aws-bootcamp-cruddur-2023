@@ -5,4 +5,4 @@ This week I focused on Databases, where I implemented databases through AWS usin
 
 ### Create a Postgres Instance
 In this image I a Postgres Instance in my AWS RDS.
-![Screenshot of Postgres Instance](assets/sign-in-incorrect-username-password.png)
+![Screenshot of Postgres Instance](assets/postgres%20instance.png)
