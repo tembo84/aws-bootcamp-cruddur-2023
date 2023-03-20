@@ -26,3 +26,8 @@ In order for the Postgres commands to install whenever I start a new Gitpod work
 ### AWS Lambda Function
 I connected an AWS Lambda function to my RDS instance so that I could configure my Cruddur code to AWS.
 ![Screenshot of AWS Lambda Function](assets/Create-Lambda-Function.png)
+
+
+### Create Congnito Trigger for Lambda Function
+I created a trigger with AWS Cognito for the Lambda Function, so the Crudder App can create users and also log data using AWS cloudwatch.
+![Screenshot of Cognito Trigger for Lambda Function](assets/Create-Cognito-Trigger-for-Lambda-Function.png)
