@@ -33,5 +33,11 @@ I created a trigger with AWS Cognito for the Lambda Function, so the Crudder App
 ![Screenshot of Cognito Trigger for Lambda Function](assets/Create-Cognito-Trigger-for-Lambda-Function.png)
 
 
+
 Here is the user being created on Cognito from signing up through the Crudder app and verifying the confirmation email.
 ![Screenshot of Cognito user created](assets/user-created-in-cognito.png)
+
+
+
+Here is an image of the VPC security group connecting Gitpod, Lambda/RDS and Cognito
+![Screenshot of VPC](assets/vpc%20created.png)
