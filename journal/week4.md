@@ -34,6 +34,8 @@ I created a trigger with AWS Cognito for the Lambda Function, so the Crudder App
 
 
 
+
+
 Here is the user being created on Cognito from signing up through the Crudder app and verifying the confirmation email.
 ![Screenshot of Cognito user created](assets/user-created-in-cognito.png)
 
