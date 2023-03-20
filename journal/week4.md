@@ -31,3 +31,7 @@ I connected an AWS Lambda function to my RDS instance so that I could configure 
 ### Create Congnito Trigger for Lambda Function
 I created a trigger with AWS Cognito for the Lambda Function, so the Crudder App can create users and also log data using AWS cloudwatch.
 ![Screenshot of Cognito Trigger for Lambda Function](assets/Create-Cognito-Trigger-for-Lambda-Function.png)
+
+
+Here is the user being created on Cognito from signing up through the Crudder app and verifying the confirmation email.
+![Screenshot of Cognito user created](assets/user-created-in-cognito.png)
