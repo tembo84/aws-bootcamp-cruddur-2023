@@ -21,3 +21,8 @@ I established a connect of the Gitpod Postgres IP address to my AWS RDS instance
 ### Save Postgres Commands to Gitpod.yml file
 In order for the Postgres commands to install whenever I start a new Gitpod workspace, I installed the commands into my gitpod yaml file.
 ![Screenshot of Postgres commands in gitpod.yml](assets/Install-Postgres-to-backend-via-gitpod-yml.png)
+
+
+### AWS Lambda Function
+I connected an AWS Lambda function to my RDS instance so that I could configure my Cruddur code to AWS.
+![Screenshot of AWS Lambda Function](assets/Create-Lambda-Function.png)
