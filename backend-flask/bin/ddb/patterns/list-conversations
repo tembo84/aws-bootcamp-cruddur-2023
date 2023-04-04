@@ -4,6 +4,7 @@ import boto3
 import sys
 import json
 import os
+from datetime import datetime
 
 current_path = os.path.dirname(os.path.abspath(__file__))
 parent_path = os.path.abspath(os.path.join(current_path, '..', '..', '..'))
@@ -43,7 +44,8 @@ query_params = {
   'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)',
   'ScanIndexForward': False,
   'ExpressionAttributeValues': {
-    ':pk': {'S': f"GRP#{my_user_uuid}"}
+    ':pk': {'S': f"GRP#{my_user_uuid}"},
+    ':year': {'S': year}
   },
   'ReturnConsumedCapacity': 'TOTAL'
 }
