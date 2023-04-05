@@ -32,8 +32,7 @@ class Ddb:
     # query the table
     response = client.query(**query_params)
     items = response['Items']
-
-
+    print("create_message_items", items)
     results = []
     for item in items:
       last_sent_at = item['sk']['S']
@@ -52,7 +51,7 @@ class Ddb:
       'TableName': table_name,
       'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)',
       'ScanIndexForward': False,
-      'Limit': 20,
+      'Limit': 100,
       'ExpressionAttributeValues': {
         ':year': {'S': year },
         ':pk': {'S': f"MSG#{message_group_uuid}"}
@@ -87,6 +86,8 @@ class Ddb:
       'user_display_name': {'S': my_user_display_name},
       'user_handle': {'S': my_user_handle}
     }
+
+    print("create_message_record", record)
     # insert the record into the table
     table_name = 'cruddur-messages'
     response = client.put_item(
@@ -94,7 +95,7 @@ class Ddb:
       Item=record
     )
     # print the response
-    print(response)
+    print("create_message_response", response)
     return {
       'message_group_uuid': message_group_uuid,
       'uuid': my_user_uuid,
@@ -103,6 +104,7 @@ class Ddb:
       'message': message,
       'created_at': created_at
     }
+
   def create_message_group(client, message,my_user_uuid, my_user_display_name, my_user_handle, other_user_uuid, other_user_display_name, other_user_handle):
     print('== create_message_group.1')
     table_name = 'cruddur-messages'

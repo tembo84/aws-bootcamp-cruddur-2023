@@ -23,9 +23,10 @@ year = str(datetime.datetime.now().year)
 query_params = {
   'TableName': table_name,
   'ScanIndexForward': False,
-  'Limit': 20,
+  #'Limit': 20,
   'ReturnConsumedCapacity': 'TOTAL',
   'KeyConditionExpression': 'pk = :pk AND begins_with(sk,:year)',
+  #'KeyConditionExpression': 'pk = :pk',
   #'KeyConditionExpression': 'pk = :pk AND sk BETWEEN :start_date AND :end_date',
   'ExpressionAttributeValues': {
     ':year': {'S': year },

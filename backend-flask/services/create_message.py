@@ -35,6 +35,8 @@ class CreateMessage:
         'handle':  user_sender_handle,
         'message': message
       }
+
+      
     else:
       sql = db.template('users','create_message_users')
 
