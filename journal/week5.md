@@ -11,12 +11,12 @@ In this image I show the bash script files that I implemented to Create the data
 ### AWS DynamoDB Cruddur-Message table
 In this image I create my Cruddur-Messages table in AWS DynamoDB. It is coded in Lambda where DynamoDB is the trigger, and it is given all the necesssary security group permissions.
 
-![Lambda function for DynamoDB](assets/Lambda-Function-for-DynamoDB.png)
+![screenshot of DynamoDB Cruddur table](assets/AWS-DynamoDB-Cruddur-Table.png)
 
 ### AWS Lambda Function
 ... and here is the Lambda Function used for the DynamoDB table
 
-![screenshot of DynamoDB Cruddur table](assets/AWS-DynamoDB-Cruddur-Table.png)
+![Lambda function for DynamoDB](assets/Lambda-Function-for-DynamoDB.png)
 
 ### Cruddur Message List
 In this image I show what the message list will look like in the Direct Message feature of Cruddur, when the messaging conversation is listed out between two users.
