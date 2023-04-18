@@ -40,7 +40,7 @@ Here I update the load balancer to accept traffic from ports 443 and 80, and I u
 ### Turn on Container Insights for CloudWatch Monitoring
 Below I updated the task definitions to contain XRAY
 
-![screenshot of XRAY Task definition]()
+![screenshot of XRAY Task definition](assets/XRAY-Task-Definitions.png)
 
 Below shows that Container Insights for CloudWatch Monitoring has been enabled.
 
