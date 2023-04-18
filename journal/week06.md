@@ -28,4 +28,4 @@ Below I registered a new domain and called it tayofolayan.com via hosted zone.
 
 Below I successfully created SSL certificates via ACM.
 
-![screenshot of SSL Certificate]()
+![screenshot of SSL Certificate](assets/SSL-Certificate-ACM.png)
