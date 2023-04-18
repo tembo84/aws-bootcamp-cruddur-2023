@@ -29,3 +29,10 @@ Below I registered a new domain and called it tayofolayan.com via hosted zone.
 Below I successfully created SSL certificates via ACM.
 
 ![screenshot of SSL Certificate](assets/SSL-Certificate-ACM.png)
+
+
+### Update Load Balancer
+Here I update the load balancer to accept traffic from ports 443 and 80, and I update the ALB listener rules accordingly.
+
+![screenshot of updated load balancer](assets/LoadBalancer-Listeners-Backend-Frontend.png)
+
