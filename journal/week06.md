@@ -7,3 +7,7 @@ This week was very challenging! I created ECR repo from AWS and from gitpod usin
 Here I show each ECR action I implemented using bash script (login, build, push, etc). I put them under the bin/backend directory. Notice I also moved the bin directory to become a top directory as opposed to being located under the backend-flask directory. This made more sense because there are actions needed under the bin directory that were not exclusive to the backend-flask. 
 
 ![screenshot of ECR actions](assets/bash-script-ecr-actions.png)
+
+Below you see both the Backend-Flask service and the Frontend-react-js service successfully deployed to AWS ECR Fargate.
+
+![screenshot of AWS services deployed](assets/Deploy-Backend-and-Frontend-Services-Fargate.png)
