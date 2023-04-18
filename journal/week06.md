@@ -58,4 +58,4 @@ Below you can see that I added the environment variables to an ERB (Ruby) file.
 
 Below you can see the Ruby bash script file that is used to generate the env_files.
 
-![screenshot of Ruby Bash Script env_file]()
+![screenshot of Ruby Bash Script env_file](assets/Ruby-bash-generate-ENV.png)
