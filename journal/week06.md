@@ -11,3 +11,7 @@ Here I show each ECR action I implemented using bash script (login, build, push,
 Below you see both the Backend-Flask service and the Frontend-react-js service successfully deployed to AWS ECR Fargate.
 
 ![screenshot of AWS services deployed](assets/Deploy-Backend-and-Frontend-Services-Fargate.png)
+
+Below is a cluster overview of those services to confirm that each task is Healthy.
+
+![screenshot of services healthy](assets/Fargate-HEALTHY-backend-frontend.png)
