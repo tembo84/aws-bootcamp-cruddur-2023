@@ -20,3 +20,12 @@ Below is a cluster overview of those services to confirm that each task is Healt
 Here I implemented a Load Balancer for the Backend and Frontend traffic.
 
 ![screenshot of Load Balancer](assets/LoadBalancers-Backend-Frontend.png)
+
+### Register Domain & Create SSL Certificate
+Below I registered a new domain and called it tayofolayan.com via hosted zone.
+
+![screenshot of tayofolayan-com](assets/Register-Domain-Route-53.png)
+
+Below I successfully created SSL certificates via ACM.
+
+![screenshot of SSL Certificate]()
