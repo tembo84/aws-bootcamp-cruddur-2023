@@ -45,3 +45,17 @@ Below I updated the task definitions to contain XRAY
 Below shows that Container Insights for CloudWatch Monitoring has been enabled.
 
 ![screenshot of Container Insights](assets/container-insights.png)
+
+
+### STreamline Docker-Compose.yml
+Here I show what the updated Docker-compose.yml file looks like without all of the environment variables. In their place I added the env_file command that will generate all of the environment variables.
+
+![screenshot of updated docker-compose](assets/streamline-docker-compose.png)
+
+Below you can see that I added the environment variables to an ERB (Ruby) file.
+
+![screenshot of ERB file with the ENV]()
+
+Below you can see the Ruby bash script file that is used to generate the env_files.
+
+![screenshot of Ruby Bash Script env_file]()
