@@ -15,3 +15,8 @@ Below you see both the Backend-Flask service and the Frontend-react-js service s
 Below is a cluster overview of those services to confirm that each task is Healthy.
 
 ![screenshot of services healthy](assets/Fargate-HEALTHY-backend-frontend.png)
+
+### Create Load Balancer
+Here I implemented a Load Balancer for the Backend and Frontend traffic.
+
+![screenshot of Load Balancer](assets/LoadBalancers-Backend-Frontend.png)
