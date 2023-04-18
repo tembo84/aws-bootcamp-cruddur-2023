@@ -54,7 +54,7 @@ Here I show what the updated Docker-compose.yml file looks like without all of t
 
 Below you can see that I added the environment variables to an ERB (Ruby) file.
 
-![screenshot of ERB file with the ENV]()
+![screenshot of ERB file with the ENV](assets/Ruby-ENV.png)
 
 Below you can see the Ruby bash script file that is used to generate the env_files.
 
