@@ -59,3 +59,9 @@ Below you can see that I added the environment variables to an ERB (Ruby) file.
 Below you can see the Ruby bash script file that is used to generate the env_files.
 
 ![screenshot of Ruby Bash Script env_file](assets/Ruby-bash-generate-ENV.png)
+
+
+### Troubleshooting
+This was actually a very frustrating and time consuming portion of my Week 6/7, but in the moment I forgot to take screenshots of every issue that aorse. One particaular issue that gave me more issues than it should have was a 401 unauthorized error.
+
+![screenshot of error]()
