@@ -68,4 +68,10 @@ This was actually a very frustrating and time consuming portion of my Week 6/7, 
 
 After verifying that my docker-compose fail was accurate and working correctly. I confirmed that all the pathing was correct. Once confirmed, I made sure to manually run the login script myself, but I never recieved confirmation that there was a successful login. I double checked that the file was executable and I looked over the file dozens of times, until I finally found the embarrasing error that I introduced. I accidentally deleted the "#" from the shebang. 
 
-![screenshot of login script]()
+![screenshot of login script](assets/login%20script.png)
+
+It seems so obvious in hindsight, but I overlooked the error more times than I would like to admit.
+
+There were plenty of other errors and troubleshooting adventures during this week, some were my fault via errors I introduced while editing code (see example above), and others were unavoidable errors that Andrew was able to help me navigate through during office hours. 
+
+My takeaway was that it was very rewarding to work through troubleshooting issues that simulate the type of things I may deal with in the future.
