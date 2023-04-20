@@ -64,4 +64,8 @@ Below you can see the Ruby bash script file that is used to generate the env_fil
 ### Troubleshooting
 This was actually a very frustrating and time consuming portion of my Week 6/7, but in the moment I forgot to take screenshots of every issue that aorse. One particaular issue that gave me more issues than it should have was a 401 unauthorized error.
 
-![screenshot of error]()
+![screenshot of error](assets/docker-compose-fail3.png)
+
+After verifying that my docker-compose fail was accurate and working correctly. I confirmed that all the pathing was correct. Once confirmed, I made sure to manually run the login script myself, but I never recieved confirmation that there was a successful login. I double checked that the file was executable and I looked over the file dozens of times, until I finally found the embarrasing error that I introduced. I accidentally deleted the "#" from the shebang. 
+
+![screenshot of login script]()
