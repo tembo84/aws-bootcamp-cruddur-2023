@@ -30,6 +30,8 @@ export class ThumbingServerlessCdkStack extends cdk.Stack {
 
     //const bucket = this.createBucket(bucketName);
     const bucket = this.importBucket(bucketName);
+
+    //create a lambda
     const lambda = this.createLambda(functionPath, bucketName, folderInput, folderOutput);
 
     // create topic and subscription
