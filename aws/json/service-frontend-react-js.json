@@ -8,7 +8,7 @@
       {
           "targetGroupArn": "arn:aws:elasticloadbalancing:us-east-1:013313589795:targetgroup/cruddur-frontend-react-js-tg/8d667404723fc916",
           "containerName": "frontend-react-js",
-          "containerPort": 3000
+          "containerPort": 3001
       }
     ],
     "networkConfiguration": {
@@ -37,7 +37,7 @@
         {
           "portName": "frontend-react-js",
           "discoveryName": "frontend-react-js",
-          "clientAliases": [{"port": 3000}]
+          "clientAliases": [{"port": 3001}]
         }
       ]
     }

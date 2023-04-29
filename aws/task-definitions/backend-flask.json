@@ -39,7 +39,7 @@
         "portMappings": [
           {
             "name": "backend-flask",
-            "containerPort": 4567,
+            "containerPort": 4568,
             "protocol": "tcp", 
             "appProtocol": "http"
           }

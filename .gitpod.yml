@@ -57,11 +57,11 @@ vscode:
 
 ports:
   - name: frontend
-    port: 3000
+    port: 3001
     onOpen: open-browser
     visibility: public
   - name: backend
-    port: 4567
+    port: 4568
     visibility: public
   - name: xray-daemon
     port: 2000
