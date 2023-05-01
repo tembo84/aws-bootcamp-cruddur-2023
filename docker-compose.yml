@@ -5,7 +5,7 @@ services:
       - backend-flask.env
     build: ./backend-flask
     ports:
-      - "4568:4568"
+      - "4567:4567"
     volumes:
       - ./backend-flask:/backend-flask
     networks:
@@ -15,7 +15,7 @@ services:
       - frontend-react-js.env
     build: ./frontend-react-js
     ports:
-      - "3001:3001"
+      - "3000:3000"
     networks:
       - cruddur-net  
     volumes:
