@@ -56,4 +56,16 @@ Here I implement a Lambda ruby function to generate a presigned URL.
 
 Here is the Ruby file that generates a presigned URL.
 
-![Screenshot of Ruby File for Presigned URL](assets/Presigned-URL-Ruby-Files.png)
+![Screenshot of Ruby File for Presigned URL](assets/Presigned-URL-Ruby-File.png)
+
+
+### Render Avatars in App via CloudFront
+Here is a screenshot of avatar being uploaded to a bucket client-side using a presigned URL. Essentially allowing me to upload the asset directly from the application.
+
+![Screenshot of Image upload from App](assets/Upload-Image-From-App.png)
+
+
+
+
+
+## TROUBLESHOOTING
