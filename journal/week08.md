@@ -31,4 +31,19 @@ Here is the Image Processing Lambda with the S3 trigger implemented.
 ### Migration
 Here I show the bash script file that we implemented to migrate the backend over to the Cruddur application.
 
-![Screenshot of Backend Migration](assets/migration.png)
+![Screenshot of Backend Migration](assets/Migration.png)
+
+### API Gateway
+Here is an image of the API Gateway I implemented to that the Crudder application can access the backend services.
+
+![Screenshot of API Gateway](assets/API-Gateway.png)
+
+
+Here is a picture showing the Avatars/Key_Upload route of the API Gateway, and showing the it is configured with Authorization (to protect the API against unauthorized requests) and Integration to the backend services.
+
+![Screenshot of API Gateway Route](assets/API-Gateway-Routes.png)
+
+
+And in the screenshot, a Lambda Authorizer has been implemented with the API Gateway as the trigger.
+
+![Screenshot of API Gateway Lambda](assets/API-Gateway-Lambda.png)
