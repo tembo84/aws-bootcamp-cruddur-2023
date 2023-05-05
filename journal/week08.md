@@ -47,3 +47,13 @@ Here is a picture showing the Avatars/Key_Upload route of the API Gateway, and s
 And in the screenshot, a Lambda Authorizer has been implemented with the API Gateway as the trigger.
 
 ![Screenshot of API Gateway Lambda](assets/API-Gateway-Lambda.png)
+
+### Presigned URL Generation via Ruby Lambda
+Here I implement a Lambda ruby function to generate a presigned URL.
+
+![Screenshot of Lambda for Presigned URL](assets/Presigned-URL-Lambda-Ruby.png)
+
+
+Here is the Ruby file that generates a presigned URL.
+
+![Screenshot of Ruby File for Presigned URL](assets/Presigned-URL-Ruby-Files.png)
