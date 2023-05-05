@@ -17,3 +17,13 @@ Here I create an S3 Bucket that will store processed images. I can store the ima
 Here I create an Cloudfront Distribution that I will use to serve Assets from the S3 bucket to my application.
 
 ![Screenshot of Cloudfront Distribution](assets/Cloudfront.png)
+
+### Lambda for Image Processing w/ S3 Trigger 
+Here I show the Javascript file used to process the images/assets that will be stored in the S3 bucket.
+
+![Screenshot of S3 image processing JS](assets/S3-image-processing-javascript.png)
+
+
+Here is the Image Processing Lambda with the S3 trigger implemented.
+
+![Screenshot of Lamdba with S3 Trigger](assets/image-processing-lambda.png)
