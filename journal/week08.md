@@ -6,4 +6,4 @@ This week we used Serverless Image Processing to uplaod assets to an s3 bucket, 
 ### Implement CDK Stack 
 We started off this week by installing AWS CDK package to gitpod and implementing it to our AWS accounts. Here you can see the install process and all the packages/files listed on the directories.  
 
-![screenshot of CDK Implementation]()
+![screenshot of CDK Implementation](assets/implement-CDK-stack.png)
