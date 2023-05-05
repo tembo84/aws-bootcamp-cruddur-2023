@@ -69,3 +69,22 @@ Here is a screenshot of avatar being uploaded to a bucket client-side using a pr
 
 
 ## TROUBLESHOOTING
+
+### Problem 1
+The were 2 major issue this week that caused me major headaches, but that I had absolutely no fault in. The first issue was from Flask. They apparently deprecated a function, which would not allow me to use docker compose. Here is the solution below (credit to @KiryuChan from discord).
+
+![image](https://user-images.githubusercontent.com/125076485/236575456-9e4f3050-77ae-4b30-9136-5a6891b22b32.png)
+
+
+
+### Problem 2
+This major issue was equally as impactful, but far more annoying beacuse it took much longer to come up with a resolution. This time it was Gitpods fault. They updated their software to a newer version. But the updated caused a problem with the Frontend and Backend Ports after performing a docker compose-up. The ports would not serve and they stayed in a continuous state of "detecting...". This issue not only would not allow us to open the ports, but when we finally found a work around to opening the ports, the bug caused many CORS and 500 errors. here is what the port status looked like:
+
+![image](https://user-images.githubusercontent.com/125076485/236576935-fb0a80bd-46d5-4508-bc07-8ce202634ca8.png)
+
+After a week of trying to come up with a solution and also complaining the Gitpod and submitting many complaint tickets. AWS-Hero Andrew Brown came to the rescue and saved the day! He got in contact with Gitpod and being the influential person that he is, he was able to make Gitpod revert back to a previous version that worked properly so that we could all get back to work!!
+
+
+
+
+
