@@ -27,3 +27,8 @@ Here I show the Javascript file used to process the images/assets that will be s
 Here is the Image Processing Lambda with the S3 trigger implemented.
 
 ![Screenshot of Lamdba with S3 Trigger](assets/image-processing-lambda.png)
+
+### Migration
+Here I show the bash script file that we implemented to migrate the backend over to the Cruddur application.
+
+![Screenshot of Backend Migration](assets/migration.png)
