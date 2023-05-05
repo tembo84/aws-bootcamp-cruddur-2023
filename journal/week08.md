@@ -7,3 +7,8 @@ This week we used Serverless Image Processing to uplaod assets to an s3 bucket, 
 We started off this week by installing AWS CDK package to gitpod and implementing it to our AWS accounts. Here you can see the install process and all the packages/files listed on the directories.  
 
 ![screenshot of CDK Implementation](assets/implement-CDK-stack.png)
+
+### Create S3 Bucket 
+Here I create an S3 Bucket that will store processed images. I can store the image directly from AWS S3, or from Gitpod to S3 or directly from the application to S3.
+
+![Screenshot of S3 Bucket](assets/S3-bucket.png)
