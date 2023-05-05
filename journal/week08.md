@@ -12,3 +12,8 @@ We started off this week by installing AWS CDK package to gitpod and implementin
 Here I create an S3 Bucket that will store processed images. I can store the image directly from AWS S3, or from Gitpod to S3 or directly from the application to S3.
 
 ![Screenshot of S3 Bucket](assets/S3-bucket.png)
+
+### Serve Assets via Cloudfront 
+Here I create an Cloudfront Distribution that I will use to serve Assets from the S3 bucket to my application.
+
+![Screenshot of Cloudfront Distribution](assets/Cloudfront.png)
