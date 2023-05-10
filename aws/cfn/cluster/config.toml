@@ -1,0 +1,8 @@
+[deploy]
+bucket = 'cfn-artifacts-tayo'
+region = 'us-east-1'
+stack_name = 'CrdCluster'
+
+[parameters]
+CertificateArn = 'arn:aws:acm:us-east-1:013313589795:certificate/70d2a8d6-1e4f-4491-9675-ec28d7208573'
+NetworkingStack = 'CrdNet'
