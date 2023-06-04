@@ -1,4 +1,4 @@
-# Week 10/11 — CloudFormation (CFN) Part 1
+# Week 10/11 — CloudFormation (CFN)
 
 ## Required Homework
 This week consisted of coverting the ClickOps infrastructure to CloudFormation and SAM templates.
