@@ -22,4 +22,15 @@ And here is the Networking bash script used to deploy the stack.
 ![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/ba4a6424-5bb3-4db4-af17-b9728602268c)
 
 
+### Implement CFN Cluster Layer
+Here I create and Cluster Template yaml file and a config toml file, for the purpose of implementing and identifying the Cluster Stack in Cloudformation. I also create a cluster Bash script to deploy the stack to AWS Cloudformation.
 
+![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/700cbf01-566d-451c-bdf6-833db3008df5)
+
+Here is the config.toml file.
+
+![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/fc1c417c-f1cf-4abd-ad98-0b371728b660)
+
+And here is the Networking bash script used to deploy the stack.
+
+![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/4a0fe7ce-2326-43f7-8829-6ae6ee36e44e)
