@@ -112,3 +112,9 @@ Here is the config.toml file.
 And here is the frontend bash script used to deploy the stack.
 
 ![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/2b1213d8-879d-413b-a0e9-9e4157d80c59)
+
+### All Cloudformation Stacks SUCCESSFULLY Deployed
+Here is a screenshot showing that all the Cloudformation Stacks that were implemented above in gitpod were successfully deployed in Cloudformation.
+
+![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/66cafa5b-c7a6-4b64-b96d-cf3052663be4)
+
