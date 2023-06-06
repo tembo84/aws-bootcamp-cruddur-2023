@@ -118,5 +118,10 @@ Here is a screenshot showing that all the Cloudformation Stacks that were implem
 
 ![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/66cafa5b-c7a6-4b64-b96d-cf3052663be4)
 
-![](assets/Cruddur-Diagram.drawio.xml)
+
+
+### Updated Cruddur Logical Diagram
+Finally, here is an update of the Cruddur Logical Diagram with all of the new components and layers added created using Draw.io.
+
+![Screenshot of Logical Diagram](assets/Updated-Cruddur-Logical-Diagram.png)
 
