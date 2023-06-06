@@ -118,3 +118,5 @@ Here is a screenshot showing that all the Cloudformation Stacks that were implem
 
 ![image](https://github.com/tembo84/aws-bootcamp-cruddur-2023/assets/125076485/66cafa5b-c7a6-4b64-b96d-cf3052663be4)
 
+![](assets/Cruddur-Diagram.drawio.xml)
+
