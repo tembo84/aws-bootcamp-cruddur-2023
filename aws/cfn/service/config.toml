@@ -4,5 +4,5 @@ region = 'us-east-1'
 stack_name = 'CrdSrvBackendFlask'
 
 [parameters]
-EnvFrontendUrl = 'tayofolayan.com'
-EnvBackendUrl = 'api.tayofolayan.com'
+EnvFrontendUrl = 'https://tayofolayan.com'
+EnvBackendUrl = 'https://api.tayofolayan.com'
