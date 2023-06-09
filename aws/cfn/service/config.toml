@@ -2,3 +2,7 @@
 bucket = 'cfn-artifacts-tayo'
 region = 'us-east-1'
 stack_name = 'CrdSrvBackendFlask'
+
+[parameters]
+EnvFrontendUrl = 'tayofolayan.com'
+EnvBackendUrl = 'api.tayofolayan.com'
