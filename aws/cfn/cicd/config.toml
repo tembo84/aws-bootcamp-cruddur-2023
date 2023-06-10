@@ -1,0 +1,11 @@
+[deploy]
+bucket = 'cfn-artifacts-tayo'
+region = 'us-east-1'
+stack_name = 'CrdCicd'
+
+[parameters]
+ServiceStack = 'CrdSrvBackendFlask'
+ClusterStack = 'CrdCluster'
+GitHubBranch = 'prod'
+GithubRepo = 'tembo84/aws-bootcamp-cruddur-2023'
+ArtifactBucketName = "codepipeline-tayo-artifacts"
