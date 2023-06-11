@@ -9,3 +9,4 @@ ClusterStack = 'CrdCluster'
 GitHubBranch = 'prod'
 GithubRepo = 'tembo84/aws-bootcamp-cruddur-2023'
 ArtifactBucketName = "codepipeline-tayo-artifacts"
+BuildSpec = 'backend-flask/buildspec.yml'
