@@ -4,6 +4,6 @@ region = 'us-east-1'
 stack_name = 'CrdSrvBackendFlask'
 
 [parameters]
-EnvFrontendUrl = 'https://tayofolayan.com'
-EnvBackendUrl = 'https://api.tayofolayan.com'
+EnvFrontendUrl = '*'
+EnvBackendUrl = '*'
 DDBMessageTable = 'CrdDdb-DynamoDBTable-12SD1WASIUCT8'
