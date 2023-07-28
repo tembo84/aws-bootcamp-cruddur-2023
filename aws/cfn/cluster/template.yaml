@@ -157,7 +157,7 @@ Resources:
         - Field: host-header
           HostHeaderConfig: 
             Values: 
-              - api.cruddur.com
+              - api.tayofolayan.com
       Actions: 
         - Type: forward
           TargetGroupArn:  !Ref BackendTG
@@ -179,8 +179,8 @@ Resources:
           CidrIp: '0.0.0.0/0'
           Description: INTERNET HTTPS
         - IpProtocol: tcp
-          FromPort: !Ref BackendPort
-          ToPort: !Ref BackendPort
+          FromPort: 80
+          ToPort: 80
           CidrIp: '0.0.0.0/0'
           Description: INTERNET HTTP
   # We have to create this SG before the service so we can pass it to database SG
