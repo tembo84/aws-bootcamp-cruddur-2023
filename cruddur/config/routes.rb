@@ -10,5 +10,13 @@ Rails.application.routes.draw do
   get '/users', to: 'users#index'
 
   resources :posts
+
+  root 'pages#index'
+  post '/submit', to: 'pages#submit_form'
   
 end
+
+
+# Rails.application.routes.draw do
+#   root 'layouts#index'
+# end
