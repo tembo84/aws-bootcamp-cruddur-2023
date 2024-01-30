@@ -12,7 +12,7 @@ Rails.application.routes.draw do
   resources :posts
 
   root 'pages#index'
-  post '/submit', to: 'pages#submit_form'
+  # post '/submit', to: 'pages#submit_form'
   
 end
 
