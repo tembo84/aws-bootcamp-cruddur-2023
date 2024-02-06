@@ -64,6 +64,12 @@ tasks:
       cp .env.example .env
       npm i
 
+  - name: rails
+    before: |
+      cd cruddur
+      bundle install
+      bundle exec rails server -b 0.0.0.0
+      
   # - name: ruby
   #   before: |
   #     git clone https://github.com/rbenv/rbenv.git ~/.rbenv
